@@ -1,0 +1,8 @@
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Debug\Excel2Json.exe.config
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Debug\Excel2Json.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Debug\Excel2Json.exe
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Debug\Excel2Json.pdb
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Debug\Excel2Json.exe
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Debug\Excel2Json.pdb

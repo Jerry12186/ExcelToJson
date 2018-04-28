@@ -1,0 +1,16 @@
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.exe.config
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.exe
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.pdb
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Newtonsoft.Json.dll
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Newtonsoft.Json.xml
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.exe
+D:\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.pdb
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.exe.config
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.exe
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Excel2Json.pdb
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Newtonsoft.Json.dll
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\bin\Release\Newtonsoft.Json.xml
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.csprojResolveAssemblyReference.cache
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.csproj.CoreCompileInputs.cache
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.exe
+D:\GameProjects\Projects\CSharpProject\ExecelToJosn\Excel2Json\obj\Release\Excel2Json.pdb
